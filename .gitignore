@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+
+# Env & credentials
+.env
+firebase-admin-key.json
+
+# Logs
+logs/
+*.log
+
+# Mac & OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
